@@ -1,0 +1,12 @@
+.hero{
+    width:auto;
+    margin:0 auto;
+    height: 10rem;
+    background-color: antiquewhite;
+    position: relative;
+    display: flex;
+
+}
+.hero svg{
+ float: right;
+}
